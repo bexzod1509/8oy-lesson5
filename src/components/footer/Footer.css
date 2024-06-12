@@ -1,0 +1,85 @@
+.d1 {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 28px;
+}
+.d1 p {
+  color: rgb(41, 41, 41);
+  font-family: Proxima Nova;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 110%;
+  letter-spacing: 0%;
+  text-align: center;
+  max-width: 114px;
+}
+.d2 {
+  text-align: center;
+}
+.d span {
+  color: rgb(41, 41, 41);
+  font-family: Proxima Nova;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: -1px;
+  letter-spacing: 0%;
+  text-align: left;
+  max-width: 370px;
+}
+.d3 h1 {
+  color: rgb(41, 41, 41);
+  font-family: Proxima Nova;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: -1px;
+  letter-spacing: 0%;
+  text-align: left;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+.d3 p {
+  color: rgb(41, 41, 41);
+  font-family: Proxima Nova;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: -1px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 15px;
+}
+.d4 h1 {
+  /* Montserrat semi 18 */
+  color: rgb(41, 41, 41);
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: right;
+}
+.d4 p {
+  color: rgb(41, 41, 41);
+  font-family: Proxima Nova;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: -1px;
+  letter-spacing: 0%;
+  text-align: right;
+  margin-top: 5px;
+}
+.d5 {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin-top: 70px;
+}
+.d {
+  display: flex;
+  align-items: start;
+  gap: 35px;
+}
+footer {
+  padding: 56px 0px 32px 0px;
+  background: rgb(235, 237, 238);
+}
